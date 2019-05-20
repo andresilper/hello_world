@@ -1,2 +1,6 @@
 # hello_world
-github hello_world tutorial
+
+Hello people
+I'm André and I'm trying to learn a little about data science and computer programming using coursera
+Wish me luck!!!
+Bye
